@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineTicketingSystem.Classes.Account" Collapsed="true">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.Customer" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACUEAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAg=</HashCode>
+      <FileName>Classes\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.LoginController" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAA=</HashCode>
+      <FileName>Classes\LoginController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.Menu">
+    <Position X="11" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQBAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Classes\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.MenuOption">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Classes\MenuOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.Show">
+    <Position X="3" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAAAAAAgAAEAQAAAAAAAEBAAAAAAAABQA=</HashCode>
+      <FileName>Classes\Show.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.ShowSeat">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="OnlineTicketingSystem.Classes.ShowSeat.SeatStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\ShowSeat.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAQAAEAQAAAAAAAABAAAAAAAAAAgIAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ShowSeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.Ticket">
+    <Position X="5.5" Y="4.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="OnlineTicketingSystem.Classes.Ticket.TicketType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\Ticket.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIACAAABAAAABAAEAEAAABAAAAAAACAAAQEAAAABAAA=</HashCode>
+      <FileName>Classes\Ticket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.Venue">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAgAQAAAACAAAACAAAAAACAAAAAAAABAAQE=</HashCode>
+      <FileName>Classes\Venue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Classes.View">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAABAAAAAAAAAIAAAAAAAAEAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Classes\View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineTicketingSystem.Program">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
